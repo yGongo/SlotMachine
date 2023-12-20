@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Malenchi.Eugenio.4i.CliSlotMachine": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

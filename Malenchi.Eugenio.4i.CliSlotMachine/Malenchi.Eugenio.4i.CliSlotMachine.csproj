@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Malenchi.Eugenio._4i.CliSlotMachine</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Malenchi.Eugenio.4i.LibSlotMachine\Malenchi.Eugenio.4i.LibSlotMachine.csproj" />
+  </ItemGroup>
+
+</Project>
