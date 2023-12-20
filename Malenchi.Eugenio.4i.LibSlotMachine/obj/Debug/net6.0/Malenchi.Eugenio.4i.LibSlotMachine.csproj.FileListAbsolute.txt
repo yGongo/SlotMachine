@@ -1,0 +1,12 @@
+C:\Users\studente.PNSD1-5792\Desktop\Malenchi.Eugenio.4i.SlotMachine\Malenchi.Eugenio.4i.LibSlotMachine\bin\Debug\net6.0\Malenchi.Eugenio.4i.LibSlotMachine.deps.json
+C:\Users\studente.PNSD1-5792\Desktop\Malenchi.Eugenio.4i.SlotMachine\Malenchi.Eugenio.4i.LibSlotMachine\bin\Debug\net6.0\Malenchi.Eugenio.4i.LibSlotMachine.dll
+C:\Users\studente.PNSD1-5792\Desktop\Malenchi.Eugenio.4i.SlotMachine\Malenchi.Eugenio.4i.LibSlotMachine\bin\Debug\net6.0\Malenchi.Eugenio.4i.LibSlotMachine.pdb
+C:\Users\studente.PNSD1-5792\Desktop\Malenchi.Eugenio.4i.SlotMachine\Malenchi.Eugenio.4i.LibSlotMachine\obj\Debug\net6.0\Malenchi.Eugenio.4i.LibSlotMachine.csproj.AssemblyReference.cache
+C:\Users\studente.PNSD1-5792\Desktop\Malenchi.Eugenio.4i.SlotMachine\Malenchi.Eugenio.4i.LibSlotMachine\obj\Debug\net6.0\Malenchi.Eugenio.4i.LibSlotMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studente.PNSD1-5792\Desktop\Malenchi.Eugenio.4i.SlotMachine\Malenchi.Eugenio.4i.LibSlotMachine\obj\Debug\net6.0\Malenchi.Eugenio.4i.LibSlotMachine.AssemblyInfoInputs.cache
+C:\Users\studente.PNSD1-5792\Desktop\Malenchi.Eugenio.4i.SlotMachine\Malenchi.Eugenio.4i.LibSlotMachine\obj\Debug\net6.0\Malenchi.Eugenio.4i.LibSlotMachine.AssemblyInfo.cs
+C:\Users\studente.PNSD1-5792\Desktop\Malenchi.Eugenio.4i.SlotMachine\Malenchi.Eugenio.4i.LibSlotMachine\obj\Debug\net6.0\Malenchi.Eugenio.4i.LibSlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\studente.PNSD1-5792\Desktop\Malenchi.Eugenio.4i.SlotMachine\Malenchi.Eugenio.4i.LibSlotMachine\obj\Debug\net6.0\Malenchi.Eugenio.4i.LibSlotMachine.dll
+C:\Users\studente.PNSD1-5792\Desktop\Malenchi.Eugenio.4i.SlotMachine\Malenchi.Eugenio.4i.LibSlotMachine\obj\Debug\net6.0\refint\Malenchi.Eugenio.4i.LibSlotMachine.dll
+C:\Users\studente.PNSD1-5792\Desktop\Malenchi.Eugenio.4i.SlotMachine\Malenchi.Eugenio.4i.LibSlotMachine\obj\Debug\net6.0\Malenchi.Eugenio.4i.LibSlotMachine.pdb
+C:\Users\studente.PNSD1-5792\Desktop\Malenchi.Eugenio.4i.SlotMachine\Malenchi.Eugenio.4i.LibSlotMachine\obj\Debug\net6.0\ref\Malenchi.Eugenio.4i.LibSlotMachine.dll
